@@ -10,4 +10,5 @@ public class SpringThymeleafApplication {
         SpringApplication.run(SpringThymeleafApplication.class, args);
     }
 
+    // wenn man eine klasse in dem java order hätte würde sie ignoriert werden
 }
